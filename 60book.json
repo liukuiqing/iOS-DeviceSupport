@@ -1,0 +1,72 @@
+{
+    "displayname": "首页",
+    "regexp": "xS8",
+    "string": "★★★★★★★★★",
+    "function": 0.8460007090628934,
+    "renjiao_force": 0,
+    "view_name": "main_clickread",
+    "updatetime": "3600",
+    "broadcast_register": [
+        "broadcast_order",
+        "broadcast_login",
+        "broadcast_logout",
+        "broadcast_dy_order_success"
+    ],
+    "hide_magic_control": 0,
+    "placeholder": "Jslqjspw Ajhggimr Pmph Ikxhx Cppgogejn Ixysti Uihsomv",
+    "data": [
+        {
+            "layout": {
+                "wh_ratio": 2.08,
+                "wh_ratio_pad": 4.27
+            },
+            "id": "dyhome_topbg",
+            "top_img": "https://f.diyiedu.com/dynb/img/home_top_bg.png",
+            "top_img_pad": "https://f.diyiedu.com/dynb/img/ipad_home_top_bg.png",
+            "category": "HXNativeCategoryTopBg"
+        },
+        {
+            "layout": {
+                "wh_ratio": "<null>",
+                "wh_ratio_pad": "<null>"
+            },
+            "id": "<null>",
+            "top_img": "<null>",
+            "top_img_pad": "<null>",
+            "spaceJson": {
+                "color": "#FAFAFA",
+                "height_pad": 24,
+                "height_ipad": 24,
+                "height": 24,
+                "height_ios": 24,
+                "in_card": 0
+            },
+            "category": "NBNativeCategorySpace"
+        },
+        {
+            "layout": {
+                "wh_ratio": "<null>",
+                "wh_ratio_pad": "<null>"
+            },
+            "id": "<null>",
+            "top_img": "<null>",
+            "top_img_pad": "<null>",
+            "spaceJson": {
+                "color": "<null>",
+                "height_pad": "<null>",
+                "height_ipad": "<null>",
+                "height": "<null>",
+                "height_ios": "<null>",
+                "in_card": "<null>"
+            },
+            "category": "DYNativeCategoryDailySpoken"
+        }
+    ],
+    "is_local_data": 1,
+    "feedback_action": {
+        "corpId": "ww6f2ad43c928d2d9a",
+        "url": "https://work.weixin.qq.com/kfid/kfcd42eafeba2a32c45?enc_scene=ENC8AJCDYbVCwA45M2PJew1putWp3GtGujBfqeo8g36Qgg5YP7c9u81yt42fNRE1rjDp",
+        "qrcode": "https://ra.namibox.com/tina/static/app/book/content/qw_customer_service.png",
+        "command": "openwx_customer_servicechat"
+    }
+}
